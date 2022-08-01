@@ -1,0 +1,11 @@
+foreign-key-migrations/server/db/*.db
+foreign-key-migrations/server/.env
+dynamic-seeding/server/db/*.db
+dynamic-seeding/server/.env
+insert-with-associations/server/db/*.db
+insert-with-associations/server/.env
+lazy-eager-queries/server/db/*.db
+lazy-eager-queries/server/.env
+combining-express-sequelize-long-practice-2/server/db/*.db
+combining-express-sequelize-long-practice-2/server/*.db
+combining-express-sequelize-long-practice-2/server/.env
